@@ -2,7 +2,7 @@
     "name":"Pescatore",
     "version":"1.24.1",
     "description":"Chromium Extension to check for Phishing websites from the URL.",
-    "manifest_version":2,
+    "manifest_version":3,
     "author":"Sandeep Kurian Jacob",
     "action":{},
     "icons": {
